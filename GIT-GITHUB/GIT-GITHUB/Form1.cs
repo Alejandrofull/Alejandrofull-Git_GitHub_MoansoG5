@@ -18,7 +18,7 @@ namespace GIT_GITHUB
             InitializeComponent();
             MostrarClientes(dataGridView1);
         }
-
+        //ALACARA GAGAGA
         
 
         private void button3_Click(object sender, EventArgs e)
