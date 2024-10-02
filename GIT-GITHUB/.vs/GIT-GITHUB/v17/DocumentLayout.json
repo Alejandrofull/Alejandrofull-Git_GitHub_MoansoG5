@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|d:\\git - semana 08\\alejandrofull-git_github_moansog5\\git-github\\git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "GIT-GITHUB\\ConexionBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:21:57.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T08:21:57.653Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "GIT-GITHUB\\Conexion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:21:04.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T08:21:04.357Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "GIT-GITHUB\\Form1.cs",
               "ToolTip": "D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeToolTip": "GIT-GITHUB\\Form1.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAADwAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T08:21:04.753Z",
               "EditorCaption": ""

@@ -49,6 +49,7 @@ namespace GIT_GITHUB
 
 
 
+
         private void button3_Click(object sender, EventArgs e)
         {
             
@@ -58,6 +59,7 @@ namespace GIT_GITHUB
         {
             InsertarClientes(txtCodigo, txtNombre, txtApellido, txtDNI, txtDireccion, txtTelefono);
             MostrarClientes(dataGridView1);
+
 
         }
 
