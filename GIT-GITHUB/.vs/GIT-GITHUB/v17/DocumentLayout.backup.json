@@ -38,14 +38,6 @@
 >>>>>>> Ramadetrabajo
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|c:\\users\\jos\u00E9\\documents\\git - moanso\\alejandrofull-git_github_moansog5\\git-github\\git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,12 +45,23 @@
       "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
 <<<<<<< HEAD
+<<<<<<< HEAD
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\GITHUB_PROYECT\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> Ramadetrabajo
 =======
+>>>>>>> Ramadetrabajo
+=======
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|c:\\users\\jos\u00E9\\documents\\git - moanso\\alejandrofull-git_github_moansog5\\git-github\\git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> Ramadetrabajo
     }
   ],
@@ -69,6 +72,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
@@ -141,6 +145,13 @@
               "WhenOpened": "2024-09-29T04:47:09.722Z",
 =======
               "DocumentIndex": 1,
+=======
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> Ramadetrabajo
               "Title": "ConexionBase.cs",
               "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\ConexionBase.cs",
               "RelativeDocumentMoniker": "GIT-GITHUB\\ConexionBase.cs",
@@ -158,6 +169,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -189,31 +201,35 @@
 >>>>>>> Ramadetrabajo
 =======
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 2,
+>>>>>>> Ramadetrabajo
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
               "RelativeDocumentMoniker": "GIT-GITHUB\\Conexion.cs",
               "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
               "RelativeToolTip": "GIT-GITHUB\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T08:21:04.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeDocumentMoniker": "GIT-GITHUB\\Form1.cs",
               "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeToolTip": "GIT-GITHUB\\Form1.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAADwv1IAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:21:04.753Z"
+              "WhenOpened": "2024-10-02T08:21:04.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeDocumentMoniker": "GIT-GITHUB\\Form1.cs",
@@ -221,11 +237,16 @@
               "RelativeToolTip": "GIT-GITHUB\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "WhenOpened": "2024-10-02T08:21:05.014Z",
               "EditorCaption": " [Dise\u00F1o]"
 >>>>>>> Ramadetrabajo
 =======
               "WhenOpened": "2024-10-02T08:21:05.014Z"
+>>>>>>> Ramadetrabajo
+=======
+              "WhenOpened": "2024-10-02T08:21:05.014Z",
+              "EditorCaption": " [Dise\u00F1o]"
 >>>>>>> Ramadetrabajo
             }
           ]
