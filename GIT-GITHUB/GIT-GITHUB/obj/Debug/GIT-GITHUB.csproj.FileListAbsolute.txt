@@ -48,3 +48,13 @@ C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITH
 C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.CoreCompileInputs.cache
 C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.exe
 C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.pdb
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe.config
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.pdb
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.AssemblyReference.cache
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Form1.resources
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Properties.Resources.resources
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.GenerateResource.cache
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.CoreCompileInputs.cache
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.exe
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.pdb

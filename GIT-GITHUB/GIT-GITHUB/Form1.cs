@@ -18,6 +18,78 @@ namespace GIT_GITHUB
             InitializeComponent();
             MostrarClientes(dataGridView1);
         }
+        public void EliminarCliente(string codigoCliente, DataGridView dgvClientes)
+        {
+            if (string.IsNullOrEmpty(codigoCliente))
+            {
+                MessageBox.Show("El código del cliente no puede estar vacío.");
+                return;
+            }
+            string sql = "DELETE FROM Clientes WHERE Codigo = @Codigo;";
+            using (SqlConnection conexion = Conexion.GetConexion())
+            {
+                if (conexion != null)
+                {
+                    try
+                    {
+                        SqlCommand command = new SqlCommand(sql, conexion);
+                        command.Parameters.AddWithValue("@Codigo", codigoCliente);
+                        int filasAfectadas = command.ExecuteNonQuery();
+                        if (filasAfectadas > 0)
+                        {
+                            FiltrarClientes(dgvClientes, txtBuscar.Text.Trim());
+                            MessageBox.Show("Cliente eliminado exitosamente.");
+                        }
+                        else
+                        {
+                            MessageBox.Show("No se encontró el cliente con el código especificado.");
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("No se pudo eliminar el cliente, error: " + ex.Message);
+                    }
+                }
+            }
+        }
+        private void FiltrarClientes(DataGridView dgvClientes, string filtro)
+        {
+            dgvClientes.Rows.Clear();
+
+            string sql = "SELECT * FROM Clientes WHERE Codigo LIKE @Filtro OR Nombre LIKE @Filtro OR Apellido LIKE @Filtro;";
+
+            using (SqlConnection conexion = Conexion.GetConexion())
+            {
+                if (conexion != null)
+                {
+                    try
+                    {
+                        SqlCommand command = new SqlCommand(sql, conexion);
+                        command.Parameters.AddWithValue("@Filtro", "%" + filtro + "%");
+
+                        SqlDataAdapter dataAdapter = new SqlDataAdapter(command);
+                        DataTable dataTable = new DataTable();
+                        dataAdapter.Fill(dataTable);
+
+                        foreach (DataRow row in dataTable.Rows)
+                        {
+                            dgvClientes.Rows.Add(
+                                row["Codigo"].ToString(),
+                                row["Nombre"].ToString(),
+                                row["Apellido"].ToString(),
+                                row["Dni"].ToString(),
+                                row["Direccion"].ToString(),
+                                row["Telefono"].ToString()
+                            );
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("No se pudieron mostrar los registros, error: " + ex.Message);
+                    }
+                }
+            }
+        }
 
         public void InsertarClientes(TextBox paramCodigo, TextBox paramNombre, TextBox paramApellido, TextBox paramDNI, TextBox paramDireccion, TextBox paramTelefono)
         {
@@ -52,7 +124,16 @@ namespace GIT_GITHUB
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                string codigoCliente = dataGridView1.SelectedRows[0].Cells["Codigo"].Value.ToString();
+                EliminarCliente(codigoCliente, dataGridView1);
+            }
+            else
+            {
+                MessageBox.Show("Por favor, seleccione un cliente para eliminar.");
+            }
+
         }
 
         private void button1_Click(object sender, EventArgs e)
