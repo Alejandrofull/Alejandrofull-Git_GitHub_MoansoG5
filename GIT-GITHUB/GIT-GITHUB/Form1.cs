@@ -20,6 +20,7 @@ namespace GIT_GITHUB
         }
 
         //YO NO FUIIIII
+        //AMA CHARO , AUXILIO , MIAAAAAAA!!!!
 
         private void button3_Click(object sender, EventArgs e)
         {
