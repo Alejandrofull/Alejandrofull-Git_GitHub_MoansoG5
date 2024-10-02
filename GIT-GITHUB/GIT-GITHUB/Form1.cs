@@ -18,9 +18,14 @@ namespace GIT_GITHUB
             InitializeComponent();
             MostrarClientes(dataGridView1);
         }
+<<<<<<< HEAD
 
         //YO NO FUIIIII
         //AMA CHARO , AUXILIO , MIAAAAAAA!!!!
+=======
+        //HOLA
+        
+>>>>>>> Ramadetrabajo
 
         private void button3_Click(object sender, EventArgs e)
         {
