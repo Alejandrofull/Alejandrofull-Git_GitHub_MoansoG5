@@ -25,6 +25,10 @@
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
 >>>>>>> Ramadetrabajo
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -37,11 +41,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> Ramadetrabajo
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ConexionBase.cs",
+              "DocumentMoniker": "D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\ConexionBase.cs",
+              "RelativeDocumentMoniker": "GIT-GITHUB\\ConexionBase.cs",
+              "ToolTip": "D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\ConexionBase.cs",
+              "RelativeToolTip": "GIT-GITHUB\\ConexionBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:21:57.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Conexion.cs",
 <<<<<<< HEAD
               "DocumentMoniker": "C:\\GITHUB_PROYECT\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
@@ -80,14 +104,9 @@
               "RelativeDocumentMoniker": "GIT-GITHUB\\Conexion.cs",
               "ToolTip": "D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
               "RelativeToolTip": "GIT-GITHUB\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T05:00:35.96Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2024-10-02T08:21:04.357Z"
             },
             {
               "$type": "Document",
@@ -97,9 +116,9 @@
               "RelativeDocumentMoniker": "GIT-GITHUB\\Form1.cs",
               "ToolTip": "D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeToolTip": "GIT-GITHUB\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:47:09.722Z",
+              "WhenOpened": "2024-10-02T08:21:04.753Z",
               "EditorCaption": ""
             },
             {
@@ -111,7 +130,11 @@
               "ToolTip": "D:\\GIT - SEMANA 08\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "GIT-GITHUB\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-09-29T04:41:15.505Z",
+>>>>>>> Ramadetrabajo
+=======
+              "WhenOpened": "2024-10-02T08:21:05.014Z",
 >>>>>>> Ramadetrabajo
               "EditorCaption": " [Dise\u00F1o]"
             }

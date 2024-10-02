@@ -12,7 +12,7 @@ namespace GIT_GITHUB
     {
         public static SqlConnection GetConexion()
         {
-            string connectionString = "Data Source=DESKTOP-SOKHGKC;Initial Catalog=GITHUB;Integrated Security=True;";
+            string connectionString = "Data Source=localhost;Initial Catalog=GITHUB;Integrated Security=True;";
             try
             {
                 SqlConnection cnn = new SqlConnection(connectionString);
