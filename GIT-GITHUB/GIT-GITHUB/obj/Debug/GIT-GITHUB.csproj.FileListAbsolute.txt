@@ -18,3 +18,13 @@ C:\Users\LEO\Desktop\repositorio de github\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-G
 C:\Users\LEO\Desktop\repositorio de github\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.CoreCompileInputs.cache
 C:\Users\LEO\Desktop\repositorio de github\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.exe
 C:\Users\LEO\Desktop\repositorio de github\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.pdb
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe.config
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.pdb
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.AssemblyReference.cache
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Form1.resources
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Properties.Resources.resources
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.GenerateResource.cache
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.exe
+C:\Users\LEO\Desktop\Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.pdb
