@@ -80,15 +80,74 @@ namespace GIT_GITHUB
 
         private void dataGridView1_MouseClick(object sender, MouseEventArgs e)
         {
-            
+            SeleccionarCliente(dataGridView1, txtCodigo, txtNombre, txtApellido, txtDNI, txtDireccion, txtTelefono);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-         
+            ModificarCliente(txtCodigo, txtNombre, txtApellido, txtDNI, txtDireccion, txtTelefono);
+            MostrarClientes(dataGridView1);
+        }
+        public void ModificarCliente(TextBox paramCodigo, TextBox paramNombre, TextBox paramApellido, TextBox paramDNI, TextBox paramDireccion, TextBox paramTelefono)
+        {
+            string consulta = "UPDATE Clientes SET Nombre = @Nombre, Apellido = @Apellido, dni = @DNI, " +
+                              "Direccion = @Direccion, Telefono = @Telefono WHERE Codigo = @Codigo";
+
+            try
+            {
+                using (var connection = Conexion.GetConexion())
+                {
+                    if (connection.State != ConnectionState.Open)
+                    {
+                        connection.Open();
+                    }
+
+                    using (var command = new SqlCommand(consulta, connection))
+                    {
+                        command.Parameters.AddWithValue("@Nombre", paramNombre.Text);
+                        command.Parameters.AddWithValue("@Apellido", paramApellido.Text);
+                        command.Parameters.AddWithValue("@DNI", paramDNI.Text);
+                        command.Parameters.AddWithValue("@Direccion", paramDireccion.Text);
+                        command.Parameters.AddWithValue("@Telefono", paramTelefono.Text);
+                        command.Parameters.AddWithValue("@Codigo", paramCodigo.Text);
+
+                        command.ExecuteNonQuery();
+                    }
+                }
+
+                MessageBox.Show("SE MODIFICÓ CORRECTAMENTE");
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("NO SE MODIFICÓ CORRECTAMENTE: " + e.Message);
+            }
         }
 
-       
+        public void SeleccionarCliente(DataGridView paramTablaAlumnos, TextBox paramCodigo, TextBox paramNombre, TextBox paramApellido, TextBox paramDNI, TextBox paramDireccion, TextBox paramTelefono)
+        {
+            try
+            {
+                int fila = paramTablaAlumnos.SelectedCells[0].RowIndex;
+                if (fila >= 0)
+                {
+                    paramCodigo.Text = paramTablaAlumnos.Rows[fila].Cells[0].Value.ToString();
+                    paramNombre.Text = paramTablaAlumnos.Rows[fila].Cells[1].Value.ToString();
+                    paramApellido.Text = paramTablaAlumnos.Rows[fila].Cells[2].Value.ToString();
+                    paramDNI.Text = paramTablaAlumnos.Rows[fila].Cells[3].Value.ToString();
+                    paramDireccion.Text = paramTablaAlumnos.Rows[fila].Cells[4].Value.ToString();
+                    paramTelefono.Text = paramTablaAlumnos.Rows[fila].Cells[5].Value.ToString();
+                }
+                else
+                {
+                    MessageBox.Show("No se seleccionó registro");
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Error de selección: " + e.Message);
+            }
+        }
+
         public void CargarDatosOrdenados(DataGridView dgvClientes)
         {
             string sql = "SELECT * FROM Clientes ORDER BY Nombre ASC";
