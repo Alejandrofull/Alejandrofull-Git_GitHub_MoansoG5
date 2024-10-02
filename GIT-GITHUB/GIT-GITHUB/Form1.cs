@@ -18,8 +18,12 @@ namespace GIT_GITHUB
             InitializeComponent();
             MostrarClientes(dataGridView1);
         }
+<<<<<<< HEAD
         //ALACARA GAGAGA
         //AMACHARO AUXILIOOOO
+=======
+        //HOLA
+>>>>>>> 0ad82d266a02e38d17ef834a79ed06a3516fa35b
         
 
         private void button3_Click(object sender, EventArgs e)
