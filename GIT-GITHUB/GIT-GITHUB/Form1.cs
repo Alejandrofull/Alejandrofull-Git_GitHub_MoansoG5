@@ -18,13 +18,36 @@ namespace GIT_GITHUB
             InitializeComponent();
             MostrarClientes(dataGridView1);
         }
-<<<<<<< HEAD
-        //ALACARA GAGAGA
-        //AMACHARO AUXILIOOOO
-=======
-        //HOLA
->>>>>>> 0ad82d266a02e38d17ef834a79ed06a3516fa35b
-        
+
+        public void InsertarClientes(TextBox paramCodigo, TextBox paramNombre, TextBox paramApellido, TextBox paramDNI, TextBox paramDireccion, TextBox paramTelefono)
+        {
+            string consulta = "INSERT INTO Clientes (Codigo, Nombre, Apellido, Dni, Direccion, Telefono) VALUES (@Codigo, @Nombre, @Apellido, @DNI, @Direccion, @Telefono);";
+
+            try
+            {
+                using (SqlConnection conexion = Conexion.GetConexion())
+                {
+                    using (SqlCommand cmd = new SqlCommand(consulta, conexion))
+                    {
+                        cmd.Parameters.AddWithValue("@Codigo", paramCodigo.Text);
+                        cmd.Parameters.AddWithValue("@Nombre", paramNombre.Text);
+                        cmd.Parameters.AddWithValue("@Apellido", paramApellido.Text);
+                        cmd.Parameters.AddWithValue("@DNI", paramDNI.Text);
+                        cmd.Parameters.AddWithValue("@Direccion", paramDireccion.Text);
+                        cmd.Parameters.AddWithValue("@Telefono", paramTelefono.Text);
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+                MessageBox.Show("SE GUARDÓ CORRECTAMENTE");
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("NO SE PUDO GUARDAR: " + e.Message);
+            }
+        }
+
+
+
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -33,7 +56,9 @@ namespace GIT_GITHUB
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            InsertarClientes(txtCodigo, txtNombre, txtApellido, txtDNI, txtDireccion, txtTelefono);
+            MostrarClientes(dataGridView1);
+
         }
 
         private void txtBuscar_TextChanged(object sender, EventArgs e)
