@@ -146,7 +146,8 @@ namespace GIT_GITHUB
 
         private void txtBuscar_TextChanged(object sender, EventArgs e)
         {
-            
+            string filtro = txtBuscar.Text.Trim();
+            FiltrarClientes(dataGridView1, filtro);
         }
 
         private void button4_Click(object sender, EventArgs e)
