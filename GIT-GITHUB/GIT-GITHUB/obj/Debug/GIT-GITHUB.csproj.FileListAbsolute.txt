@@ -48,3 +48,23 @@ C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITH
 C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.CoreCompileInputs.cache
 C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.exe
 C:\Users\José\Documents\GIT - MOANSO\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.pdb
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe.config
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.pdb
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.AssemblyReference.cache
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Form1.resources
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Properties.Resources.resources
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.GenerateResource.cache
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.CoreCompileInputs.cache
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.exe
+C:\GITHUB_PROYECT\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.pdb
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe.config
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.exe
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\bin\Debug\GIT-GITHUB.pdb
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.AssemblyReference.cache
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Form1.resources
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT_GITHUB.Properties.Resources.resources
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.GenerateResource.cache
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.csproj.CoreCompileInputs.cache
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.exe
+E:\UPN\Ciclo VI\Modelamiento y Análisis de Software\GIT-Trabajos\Alejandrofull-Git_GitHub_MoansoG5\GIT-GITHUB\GIT-GITHUB\obj\Debug\GIT-GITHUB.pdb

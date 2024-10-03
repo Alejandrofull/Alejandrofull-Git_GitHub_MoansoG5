@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\LEO\\Desktop\\Git_GitHub_MoansoG5\\GIT-GITHUB\\",
   "Documents": [
     {
@@ -36,13 +37,16 @@
 =======
   "WorkspaceRootPath": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\",
 >>>>>>> Ramadetrabajo
+=======
+  "WorkspaceRootPath": "E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\",
+>>>>>>> Ramadetrabajo
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|e:\\upn\\ciclo vi\\modelamiento y an\u00E1lisis de software\\git-trabajos\\alejandrofull-git_github_moansog5\\git-github\\git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -56,12 +60,15 @@
 =======
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|c:\\users\\jos\u00E9\\documents\\git - moanso\\alejandrofull-git_github_moansog5\\git-github\\git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D69E856-631D-4893-B7E0-63F13D86B3D9}|GIT-GITHUB\\GIT-GITHUB.csproj|solutionrelative:git-github\\conexionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Ramadetrabajo
+=======
 >>>>>>> Ramadetrabajo
     }
   ],
@@ -72,6 +79,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
           "SelectedChildIndex": 2,
@@ -166,6 +174,17 @@
 =======
               "WhenOpened": "2024-10-02T08:21:57.653Z"
 >>>>>>> Ramadetrabajo
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+>>>>>>> Ramadetrabajo
             },
             {
               "$type": "Document",
@@ -205,40 +224,44 @@
               "DocumentIndex": 2,
 >>>>>>> Ramadetrabajo
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
+              "DocumentMoniker": "E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
               "RelativeDocumentMoniker": "GIT-GITHUB\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
+              "ToolTip": "E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Conexion.cs",
               "RelativeToolTip": "GIT-GITHUB\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:21:04.357Z",
+              "WhenOpened": "2024-10-02T07:27:31.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
+              "DocumentMoniker": "E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeDocumentMoniker": "GIT-GITHUB\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
+              "ToolTip": "E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeToolTip": "GIT-GITHUB\\Form1.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAowFgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAYwJUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:21:04.753Z",
+              "WhenOpened": "2024-10-02T07:27:31.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
+              "DocumentMoniker": "E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs",
               "RelativeDocumentMoniker": "GIT-GITHUB\\Form1.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GIT - MOANSO\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "E:\\UPN\\Ciclo VI\\Modelamiento y An\u00E1lisis de Software\\GIT-Trabajos\\Alejandrofull-Git_GitHub_MoansoG5\\GIT-GITHUB\\GIT-GITHUB\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "GIT-GITHUB\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
               "WhenOpened": "2024-10-02T08:21:05.014Z",
+=======
+              "WhenOpened": "2024-10-02T07:27:32.016Z",
+>>>>>>> Ramadetrabajo
               "EditorCaption": " [Dise\u00F1o]"
 >>>>>>> Ramadetrabajo
 =======
